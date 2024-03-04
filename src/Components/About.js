@@ -21,7 +21,7 @@ export default function About(props) {
 					<img
 						className="profile-pic"
 						src={profilepic}
-						alt="Tim Baker Profile Pic"
+						alt="Harkirat Singh Profile Pic"
 					/>
 				</div>
 				<div className="nine columns main-col">

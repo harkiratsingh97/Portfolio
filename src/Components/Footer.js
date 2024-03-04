@@ -2,6 +2,8 @@ import React, { Component } from "react";
 
 class Footer extends Component {
 	render() {
+		let year = new Date().toString().slice(10, 15);
+
 		if (this.props.data) {
 			var networks = this.props.data.social.map(function (network) {
 				return (
@@ -23,7 +25,7 @@ class Footer extends Component {
 						<ul></ul>
 
 						<ul className="copyright">
-							<li>&copy;Copyright 2020 Harkirat Singh</li>
+							<li>&copy;Copyright {year} Harkirat Singh</li>
 						</ul>
 					</div>
 					<div id="go-top">
