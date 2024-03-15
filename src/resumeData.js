@@ -112,7 +112,7 @@ export const resumeDataBack = {
 				title: "Busy Buy",
 				category:
 					"An E-Commerce website (React.js and Firebase/Firestore Authentication)",
-				image: "Untitled.png",
+				image: "busy-buy.png",
 				url: "https://busybuy-react.web.app/",
 			},
 		],
