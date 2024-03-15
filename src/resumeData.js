@@ -108,6 +108,13 @@ export const resumeDataBack = {
 				image: "Untitled.png",
 				url: "http://www.smcranesolution.com",
 			},
+			{
+				title: "Busy Buy",
+				category:
+					"An E-Commerce website (React.js and Firebase/Firestore Authentication)",
+				image: "Untitled.png",
+				url: "https://busybuy-react.web.app/",
+			},
 		],
 	},
 	testimonials: {
