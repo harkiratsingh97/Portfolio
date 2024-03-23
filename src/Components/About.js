@@ -11,7 +11,7 @@ export default function About(props) {
 		var zip = props.data.address.zip;
 		var phone = props.data.phone;
 		var email = props.data.email;
-		// var resumeDownload = props.data.resumedownload;
+		var resumeDownload = props.data.resumedownload;
 	}
 
 	return (
@@ -45,13 +45,17 @@ export default function About(props) {
 								<span>{email}</span>
 							</p>
 						</div>
-						{/* <div className="columns download">
+						<div className="columns download">
 							<p>
-								<a href={resumeDownload} className="button">
+								<a
+									href={resumeDownload}
+									download={resumeDownload}
+									className="button"
+								>
 									<i className="fa fa-download"></i>Download Resume
 								</a>
 							</p>
-						</div> */}
+						</div>
 					</div>
 				</div>
 			</div>

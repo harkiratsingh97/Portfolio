@@ -15,6 +15,7 @@ export const resumeDataBack = {
 			state: "Delhi",
 			zip: "110018",
 		},
+		resumedownload: "Resume-Harkirat.pdf",
 
 		social: [
 			{
