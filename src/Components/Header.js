@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 
 class Header extends Component {
-	constructor(){
-		super()
+	constructor() {
+		super();
 		this.state = {
-			activeItem:"home"
-		}
+			activeItem: "home",
+		};
 	}
 	render() {
 		if (this.props.data) {
@@ -34,28 +34,28 @@ class Header extends Component {
 					</a>
 
 					<ul id="nav" className="nav">
-						<li className={this.state.activeItem === 'home' ? 'current' : ''}>
+						<li>
 							<a className="smoothscroll" href="#home">
 								Home
 							</a>
 						</li>
-						<li className={this.state.activeItem === 'about' ? 'current' : ''}>
+						<li>
 							<a className="smoothscroll" href="#about">
 								About
 							</a>
 						</li>
-						<li className={this.state.activeItem === 'resume' ? 'current' : ''}>
+						<li>
 							<a className="smoothscroll" href="#resume">
 								Resume
 							</a>
 						</li>
-						<li className={this.state.activeItem === 'portfolio' ? 'current' : ''}>
+						<li>
 							<a className="smoothscroll" href="#portfolio">
 								Works
 							</a>
 						</li>
 						{/* <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li> */}
-						<li className={this.state.activeItem === 'contact' ? 'current' : ''}>
+						<li>
 							<a className="smoothscroll" href="#contact">
 								Contact
 							</a>
