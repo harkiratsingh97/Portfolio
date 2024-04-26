@@ -104,9 +104,9 @@ export const resumeDataBack = {
 	portfolio: {
 		projects: [
 			{
-				title: "SM Crane",
-				category: "A website for a crane company (AngularJS)",
-				image: "Untitled.png",
+				title: "Kirat Estate",
+				category: "A real Estate website for connecting landlord/tenants",
+				image: "KiratEstate.png",
 				url: "http://www.smcranesolution.com",
 			},
 			{
