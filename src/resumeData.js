@@ -107,7 +107,7 @@ export const resumeDataBack = {
 				title: "Kirat Estate",
 				category: "A real Estate website for connecting landlord/tenants",
 				image: "KiratEstate.png",
-				url: "http://www.smcranesolution.com",
+				url: "https://real-estate-app-69v9.onrender.com/",
 			},
 			{
 				title: "Busy Buy",
