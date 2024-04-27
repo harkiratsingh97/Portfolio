@@ -14,6 +14,8 @@ export default function About(props) {
 		var resumeDownload = props.data.resumedownload;
 	}
 
+	
+
 	return (
 		<section id="about">
 			<div className="row">
