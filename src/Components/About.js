@@ -13,9 +13,6 @@ export default function About(props) {
 		var email = props.data.email;
 		var resumeDownload = props.data.resumedownload;
 	}
-
-	
-
 	return (
 		<section id="about">
 			<div className="row">
