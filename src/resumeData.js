@@ -15,7 +15,7 @@ export const resumeDataBack = {
 			state: "Delhi",
 			zip: "110018",
 		},
-		resumedownload: "Resume-Harkirat.pdf",
+		resumedownload: "Harkirat_Resume.pdf",
 
 		social: [
 			{
@@ -55,14 +55,14 @@ export const resumeDataBack = {
 				title: "Software Engineer",
 				years: "Jul 2024 - Present",
 				description:
-					"Spearheaded multiple Single Page Application (SPA) experiments aimed at boosting user engagement through A/B testing, resulting in a 20% increase in user interaction. Led the React.js version upgrade for several key modules, improving performance and reducing codebase complexity by 15%. Integrated Google Drive for seamless file uploads, enabling users to upload files 30% faster, enhancing overall user experience. Implemented Localization for multiple countries, expanding the product’s reach and supporting 7+ new languages, resulting in a 25% growth in international users. Collaborated across cross-functional teams to maintain and enhance shared code repositories, enabling smoother collaboration and faster development cycles. Conducted config-based development to provide flexible feature deployment across various environments, reducing setup time by 40%. Optimized web page load times by implementing Next.js server-side rendering (SSR), resulting in a 35% reduction in average user wait times and a 20% improvement in SEO rankings. This performance boost has since become the standard for all future projects.",
+					"Spearheaded multiple SPA experiments, achieving a 20% increase in user engagement. Upgraded React.js for key modules, reducing code complexity by 15% and enhancing performance. Integrated Google Drive for 30% faster file uploads and implemented Localization, supporting 7+ languages and driving 25% growth in international users. Streamlined collaboration by maintaining shared code repositories and enabled flexible feature deployment, cutting setup time by 40%. Optimized page load times with Next.js SSR, reducing wait times by 35% and improving SEO by 20%, setting a benchmark for future projects.",
 			},
 			{
 				company: "Infosys",
 				title: "Technology Analyst",
 				years: "Jan 2021 - June 2024",
 				description:
-					"Orchestrated cross-functional collaboration within agile teams across 3 projects, adapting seamlessly to varying team structures and project dynamics; optimized team workflows resulting in a 20% increase in project efficiency. Revamped and sustained front-end interfaces for internal tools at Infosys, integrating React.js, Redux, and Flux architecture. Prioritized user-centric design for enhanced functionality and intuitive user experience, driving a 30% reduction in error rates and 25% increase in user satisfaction. Leveraged Node.js and Express.js to craft resilient and scalable APIs, optimizing data processing efficiency and bolstering system performance by an impressive 40%. Executed end-to-end development, deploying user survey forms for Daimler, resulting in a 50% increase in employee performance through actionable insights and streamlined processes. Pioneered continuous learning journey and honed full-stack development skills, specializing in React and Node.js; used expertise to revamp user interface design, increasing user engagement and retention rates by 40%.",
+					"Orchestrated agile collaboration across 3 projects, boosting efficiency by 20%. Revamped internal tool interfaces using React.js, Redux, and Flux, reducing error rates by 30% and increasing user satisfaction by 25%. Built scalable APIs with Node.js and Express.js, enhancing system performance by 40%. Deployed survey forms for Daimler, driving a 50% improvement in employee performance through actionable insights. Leveraged expertise in React and Node.js to redesign user interfaces, increasing engagement and retention by 40%.",
 			}
 		],
 
