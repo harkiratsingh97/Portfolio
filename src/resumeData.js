@@ -62,15 +62,8 @@ export const resumeDataBack = {
 				title: "Technology Analyst",
 				years: "Jan 2021 - June 2024",
 				description:
-					"As a Technology Analyst at Infosys, I apply expertise in Full Stack Development and Data Structures and Algorithms (DSA) to create innovative web applications and solve complex problems. With over 3 years of hands-on experience in the IT industry, I have delivered robust and efficient solutions for various clients and projects, using JavaScript as my primary programming languages.",
-			},
-			{
-				company: "Intern Nexus",
-				title: "Full Stack Developer Intern",
-				years: "June 2020 - Dec 2020",
-				description:
-					"Developed Client and Server side of web applications as Javascript Developer.",
-			},
+					"Orchestrated cross-functional collaboration within agile teams across 3 projects, adapting seamlessly to varying team structures and project dynamics; optimized team workflows resulting in a 20% increase in project efficiency. Revamped and sustained front-end interfaces for internal tools at Infosys, integrating React.js, Redux, and Flux architecture. Prioritized user-centric design for enhanced functionality and intuitive user experience, driving a 30% reduction in error rates and 25% increase in user satisfaction. Leveraged Node.js and Express.js to craft resilient and scalable APIs, optimizing data processing efficiency and bolstering system performance by an impressive 40%. Executed end-to-end development, deploying user survey forms for Daimler, resulting in a 50% increase in employee performance through actionable insights and streamlined processes. Pioneered continuous learning journey and honed full-stack development skills, specializing in React and Node.js; used expertise to revamp user interface design, increasing user engagement and retention rates by 40%.",
+			}
 		],
 
 		skillmessage:
@@ -79,29 +72,44 @@ export const resumeDataBack = {
 		skills: [
 			{
 				name: "ReactJS",
-				level: "80%",
+				level: "100%",
+			},
+			{
+				name: "Redux.js",
+				level: "90%",
+			},
+			{
+				name: "JavaScript",
+				level: "100%",
 			},
 			{
 				name: "NodeJS",
 				level: "78%",
 			},
 			{
-				name: "JavaScript",
-				level: "85%",
+				name: "Next.js",
+				level: "70%",
 			},
 			{
-				name: "CSS",
+				name: "SASS / CSS",
 				level: "75%",
 			},
 			{
 				name: "Git",
-				level: "85%",
+				level: "100%",
 			},
 			{
 				name: "Github",
 				level: "80%",
 			},
-
+			{
+				name: "JIRA",
+				level: "90%",
+			},
+			{
+				name: "SQL",
+				level: "80%",
+			},
 			{
 				name: "MongoDB",
 				level: "80%",
