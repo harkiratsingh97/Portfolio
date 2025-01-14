@@ -3,8 +3,8 @@ export const resumeDataBack = {
 		name: "Harkirat Singh",
 		occupation: "Full Stack Developer",
 		description:
-			"Technology Analyst at Infosys | Computer Science, Data Structures, Node.js, React.js",
-		image: "IG_Harkirat.png",
+			"Software Engineer at BOLD | Computer Science, Data Structures, Node.js, React.js, Next.js",
+		image: "IG_Harkirat.jpg",
 		bio: "Full Stack Developer with Expertise in Node.js, Next.js, React.js, Tailwind CSS, JavaScript, Redux, Agile Methodology, and Database Management.",
 		contactmessage: "Get in touch with me to receive further details.",
 		email: "officialharkiratsingh@gmail.com",
