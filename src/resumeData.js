@@ -5,7 +5,7 @@ export const resumeDataBack = {
 		description:
 			"Technology Analyst at Infosys | Computer Science, Data Structures, Node.js, React.js",
 		image: "IG_Harkirat.png",
-		bio: "As a Technology Analyst at Infosys, I leverage my expertise in Full Stack Development and Data Structures to craft innovative web solutions. With 3+ years of IT experience, I deliver robust solutions using JavaScript. Holding a BTech in Computer Science, I'm passionate about pushing the boundaries of web development and eager to collaborate on dynamic projects. ",
+		bio: "Full Stack Developer with Expertise in Node.js, Next.js, React.js, Tailwind CSS, JavaScript, Redux, Agile Methodology, and Database Management.",
 		contactmessage: "Get in touch with me to receive further details.",
 		email: "officialharkiratsingh@gmail.com",
 		phone: "+91 8920923903",
